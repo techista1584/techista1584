@@ -19,6 +19,8 @@ Skills:
 <li>Postman</li>
 <li>Full Stack Web Development</li>
 
+  <url>https://techista1584.github.io/goit-react-hw-02-feedback/](https://techista1584.github.io/goit-markup-hw-07/index.html</url>
+  <br>
   <url>https://techista1584.github.io/goit-react-hw-02-feedback/</url>
   <br>
   <url>https://techista1584.github.io/goit-react-hw-03-image-finder/</url>
