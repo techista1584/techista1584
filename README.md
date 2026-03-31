@@ -8,6 +8,8 @@ Skills:
 <li>Leadership</li>
 <li>Advanced Excel (automation using fomulas, power query, VBA)</li>
 <li>Power BI</li>
+  <url>https://www.linkedin.com/in/rubymateo1584/details/projects/</url>
+  <br>
 <li>Postgresql</li>
 <li>Microsoft Lists</li>
 <li>Sharepoint sites</li>
